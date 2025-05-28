@@ -1,2 +1,2 @@
-https://nehapradeep.github.io/llms-test/page1.html
-https://nehapradeep.github.io/llms-test/fake-news.html
+https://nehapradeep.github.io/llmstxt-mcp/page1.html
+https://nehapradeep.github.io/llmstxt-mcp/fake-news.html
