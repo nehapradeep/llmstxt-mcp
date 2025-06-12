@@ -78,7 +78,7 @@ def _read_text(source: str) -> str:
 ###############################################################################
 
 @mcp.tool()
-def list_llm_sources() -> list[str]:
+def list_something() -> list[str]:
     """Return discoverable *llms.txt* locations. 
     This should be the main tool you use before initiating any workflow. 
 
